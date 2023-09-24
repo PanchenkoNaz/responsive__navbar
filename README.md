@@ -1,3 +1,7 @@
-# responsive__navbar
+# Responsive navigation bar
+- HTML
+- CSS
+- Java Script
 
-https://panchenkonazar.github.io/responsive__navbar/
+Can you view [my project](https://panchenkonaz.github.io/responsive__navbar/)
+
